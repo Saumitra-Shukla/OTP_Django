@@ -12,10 +12,10 @@ This is to register the mobile number into the database and generate OTP.
 ```http://127.0.0.1:8000/verify/<phone_num>/```
 eg.
 ```http://127.0.0.1:8000/verify/9140444258/```
-![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot-from-2020-09-12-21-07-19.png?raw=true)
+![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot%20from%202020-09-12%2021-07-19.png?raw=true)
 
 In the Django Admin Panel:
-![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot from 2020-09-12 21-22-24.png?raw=true)
+![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot%20from%202020-09-12%2021-22-24.png?raw=true)
 
 
 #### POST
@@ -25,7 +25,7 @@ This is to verify the mobile number using OTP.
 eg.
 ```http://127.0.0.1:8000/verify/9140444258/```
 
-![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot from 2020-09-12 21-16-05.png?raw=true)
+![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot%20from%202020-09-12%2021-16-05.png?raw=true)
 
 Data: 
 ```
@@ -35,9 +35,9 @@ Data:
 ```
 
 After POST req:
-![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot from 2020-09-12 21-16-15.png?raw=true)
+![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot%20from%202020-09-12%2021-16-15.png?raw=true)
 
 In the Django Admin Panel:
-![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot from 2020-09-12 21-22-42.png?raw=true)
+![alt text](https://github.com/Saumitra-Shukla/OTP_Django/blob/master/photos/Screenshot%20from%202020-09-12%2021-22-42.png?raw=true)
 
 
